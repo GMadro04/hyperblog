@@ -1,4 +1,4 @@
-# Hyperblog :tw-2649: :fa-github-square:
+# Hyperblog :tw-2600:
 Un blog de práctica del curso de Git y GitHub
 > El curso de Giy y GiyHub es lo que me hacia falta para potenciar mis habilidades y adquirir buenas prácticas
 
